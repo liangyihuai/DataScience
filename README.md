@@ -7,7 +7,7 @@ Data Processing/ Machine Learning/ Deep Learning
 
 -  [download ipynb file](https://github.com/liangyihuai/DataScience/blob/master/PCA%20Learning/PCA%20Learning.ipynb)
 
-### 2. Dataset Preprocessing / (Image) Data Whitening
+### 2. Dataset Preprocessing / (Image) Data Whitening / Zero Component Analysis (ZCA)
 
 - [view source code](https://github.com/liangyihuai/DataScience/blob/master/Preprocessing-for-deep-learning/Preprocessing-for-deep-learning.md)
 - [download ipynb file](https://github.com/liangyihuai/DataScience/blob/master/Preprocessing-for-deep-learning/Preprocessing-for-deep-learning.ipynb)
